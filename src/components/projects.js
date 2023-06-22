@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: "MNIST Recognition",
       description: "I developed a handwritten digit recognition model from scratch using neural networks. This project involved implementing a neural network architecture that could accurately classify handwritten digits. I used Python programming language and libraries such as NumPy and Pandas to preprocess the data, build the model, and train it on a dataset of handwritten digits. The project also involved testing the model's accuracy and fine-tuning the parameters to improve its performance. I am proud of this project because it demonstrates my expertise in machine learning and neural networks, and it showcases my ability to design and implement complex algorithms. The handwritten digit recognition model is an excellent addition to my portfolio as it highlights my skills and knowledge in machine learning and artificial intelligence.",
-      link: "https://github.com/plon-Susk7/Handwritten-Number-Recognition"
+      link: "https://plon-susk7.github.io/MNIST-WEB-APPLICATION/"
     },
    
   ];
